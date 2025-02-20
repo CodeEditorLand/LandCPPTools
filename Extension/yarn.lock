@@ -334,9 +334,9 @@
     "@octokit/types" "^13.5.0"
 
 "@octokit/request-error@^5.1.0":
-  version "5.1.0"
-  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/@octokit/request-error/-/request-error-5.1.0.tgz"
-  integrity sha1-7kE4U40IyBpgvj8yDNcQYwZKOzA=
+  version "5.1.1"
+  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/@octokit/request-error/-/request-error-5.1.1.tgz#b9218f9c1166e68bb4d0c89b638edc62c9334805"
+  integrity sha1-uSGPnBFm5ou00MibY47cYskzSAU=
   dependencies:
     "@octokit/types" "^13.1.0"
     deprecation "^2.0.0"
