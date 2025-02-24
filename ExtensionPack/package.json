@@ -6,6 +6,8 @@
 	"activationEvents": [
 		"onCommand:ms-vscode.cpptools-extension-pack.unavailableCommand"
 	],
+	"dependencies": {},
+	"devDependencies": {},
 	"extensionPack": [
 		"ms-vscode.cmake-tools",
 		"ms-vscode.cpptools",
