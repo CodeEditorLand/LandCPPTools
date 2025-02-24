@@ -63,7 +63,7 @@ async function getMachineId(macAddress?: string): Promise<string | undefined> {
 	}
 
 	try {
-		const crypto = await import("crypto");
+		const crypto = await import("node:crypto");
 
 		const normalized = macAddress.toUpperCase().replace(/:/g, "-");
 
